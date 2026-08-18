@@ -3,7 +3,7 @@
 	url = https://github.com/99shuo/kernel_techpack_audio-legacy.git
 [submodule "arch/arm64/boot/dts/vendor-legacy"]
 	path = arch/arm64/boot/dts/vendor-legacy
-	url = https://github.com/99shuo/kernel_devicetree_msm-4.19.git
+	url = https://github.com/knkj55/kernel_devicetree_msm-4.19.git
 [submodule "drivers/staging/prima"]
 	path = drivers/staging/prima
 	url = https://github.com/99shuo/vendor_qcom_opensource_wlan_prima.git
